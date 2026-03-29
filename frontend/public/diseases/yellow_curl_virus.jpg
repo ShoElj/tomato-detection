@@ -1,0 +1,1354 @@
+<!-- INF10\startRequest.cfm -->
+
+<!-- page-view-legacy\processLegacyHTML.cfm -->
+<!-- PMG/PESTNOTES/index.html --> 
+        <!-- Cached 2026-03-05 09:28:59.13 / {ts '2026-03-24 13:08:36'} -->
+        <!-- Rule: _blank -->
+        <!DOCTYPE html>
+<html lang="en-us"><!-- InstanceBegin template="/Templates/basic-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- * Basic template on ANR-based site * -->
+<!-- *** Updated 11-20-2013 at 4:00 *** -->
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+ <title>List of Pest Notes in HTML and PDF--UC IPM</title>
+ <meta name="description"
+        content="List of Pest Notes, peer-reviewed publications about specific pests.">
+ <!-- InstanceEndEditable -->
+<link href="/styles/styles_sitewide.css" rel="stylesheet" type="text/css" lang="en-US" media="screen">
+<link href="/styles/styles_sharing.css" rel="stylesheet" type="text/css" lang="en-US">
+<link href="/styles/ipmfixed.css" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/png" href="/IMAGES/favicon.ico">
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+<style type="text/css">
+#pagecontent ul.anchorlinks li:first-child {padding-left:0;}
+#pagecontent ul.anchorlinks li:last-child {border-right:0 none;}
+#pagecontent table#templateinfo th {text-align:left; vertical-align:top;}
+#navigation_top {
+	font-size: 75%;
+	background: url(/IMAGES/background/topnav.gif) repeat-y;
+	height:30px;
+	}
+</style>
+<!-- InstanceBeginEditable name="head" -->
+<link href="/styles/medialinks.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#pagecontent table.indextable th {font-weight:normal;}
+</style><!-- InstanceEndEditable -->
+<!-- InstanceParam name="ShowTemplateInfo" type="boolean" value="false" -->
+<!-- InstanceParam name="AddBreadCrumbs" type="boolean" value="true" -->
+<!-- InstanceParam name="AddPDFnote" type="boolean" value="false" -->
+<!-- InstanceParam name="ShowLinktoTop" type="boolean" value="false" -->
+<!-- InstanceParam name="ShowRelatedLinks" type="boolean" value="false" -->
+<!-- InstanceParam name="ShowHeaderImage" type="boolean" value="false" -->
+ 
+</head>
+
+<body id="style2">
+ 
+
+<div id="main" style="background: url(/IMAGES/anr/bgd_nav.png) repeat-y center;">
+
+<div id="topitems">
+  <form method="post" action="/search" style="margin:0" name="topform">
+   	<input type="text" name="phrase" size="35" value="" placeholder="Enter search terms" onfocus="value=''" class="search">
+   	<input type="image" name="submit" value="Search" src="/IMAGES/anr/search.gif" style="margin-bottom:-3px" alt="Click to Search" title="Click to Search">
+		<input type="hidden" name="enc" value="UTF-8">
+	</form>
+</div>
+
+<div id="header2"> <a href="/index.html" ><img src="/IMAGES/header/ipmheader.jpg" width="990" height="120" style="border:0" title="Return to Home Page" alt="Return to Home Page"></a> </div>
+
+<!-- **************** TOP NAVIGATION DIVISION ***************** -->
+
+<div id="navigation_top">
+  <ul class="level1">
+	<li class="submenu" style="border-left:0;"><a href="/GENERAL/whatisipm.html">What is IPM?</a></li>
+	<li class="submenu">Identify & Manage Pests
+		<ul class="level2">
+	<li><a href="/PMG/menu.homegarden.html">Home, garden, turf, & landscape pests</a></li>
+	<li><a href="/PMG/crops-agriculture.html">Agricultural pests</a></li>
+	<li><a href="/NATURAL/index.html">Natural environment pests</a></li>
+			<li><a href="/EXOTIC/index.html">Exotic & invasive pests</a></li>
+	<li><a href="/PMG/weeds_intro.html">Weed gallery</a></li>
+	<li><a href="/PMG/NE/index.html">Natural enemies gallery</a></li>
+				<li><a href="/WEATHER/index.html">Weather, models, & degree-days</a>
+	</li>
+			<li><a href="/GENERAL/pesticides.html">Pesticide information</a></li>
+		</ul>
+	</li>
+	<li class="submenu"><a href="/IPMPROJECT/fundedprojects.html">Research</a></li>
+	<li class="submenu"><a href="/IPMPROJECT/pubsmenu.html">Publications</a></li>
+	<li class="submenu">Training & Events
+		<ul class="level2">
+	<li><a href="/IPMPROJECT/workshops.html">Events & workshops</a></li>
+	<li><a href="/training/">Online training</a></li>
+		</ul>
+	</li>
+	<li class="submenu"><a href="/GENERAL/links.html">Links</a></li>
+	<li class="submenu">About Us
+		<ul class="level2">
+			<li><a href="/IPMPROJECT/about.html">UC IPM</a></li>
+			<li><a href="http://ucanr.org/">UC Division of Agriculture & Natural Resources</a></li>
+		</ul>
+	</li>
+	<li class="submenu"><a href="/IPMPROJECT/contact.html">Contact Us</a></li>
+	<li class="submenu" style="border-right;0;">
+		<a href="/GENERAL/rssfeeds.html">Subscribe <img src="/IMAGES/icons/rss_icon-12x12.gif" width="12" height="12" alt="RSS feed" /></a>
+	</li>
+</ul>
+</div> <!-- end of top menu bar -->
+
+<div id="siteinfo">
+<p class="zero">Integrated Pest Management · Agriculture and Natural Resources</p>
+<p class="zero">University of California</p>
+</div>
+
+<!-- **************** MAIN CONTENT DIVISION ***************** -->
+<div id="pagecontent">
+<!-- **************** TEMPLATE INFO *************** -->
+
+<!-- =============== Share & Print buttons =============== -->
+
+<div id="sharebuttons"> <a href="#" onclick="window.print();" class="printlink">Print</a> </div>
+<!-- end of share buttons -->
+
+<!-- =============== Beginning of section copied to ANR ================= -->
+
+
+<!-- =============== Infrastructure =============== -->
+<div id="structure" style="margin:-0.7em 0 0 0em; padding:0 0 0.5em 0;">
+	<ul class="structurelinks">
+		<!-- InstanceBeginEditable name="BreadCrumbs" -->
+<li><a href="/PMG/menu.homegarden.html">Homes, Gardens, Landscapes, and Turf</a></li>
+     <!-- InstanceEndEditable -->
+	</ul>
+</div>
+
+
+<!-- =============== Actual content =============== -->
+<h1 id="ipmh1"><!-- InstanceBeginEditable name="Name" -->Pest Notes Library<!-- InstanceEndEditable --></h1>
+<div id="ipmcontent" style="margin:0 10px; padding-bottom:13px;">
+
+
+
+
+
+<!-- InstanceBeginEditable name="Content" -->
+<!--     <div style="float:left; width: 100%; border-bottom:1px solid #ccc; padding:0px 0 10px 0;margin:-0.5em 0 1em 0;">
+  <form method="post" action="/search" style="margin:0" id="urbanform">
+		<label style="padding:0.5em 0 0.25em 0;"><b>Search home & landscape</b>:</label>
+		<input type="text" name="phrase" size="80" value="" onFocus="value=''" class="search" >
+		<input type="image" name="submit" value="Search" src="/IMAGES/anr/search.gif" style="margin-bottom:-3px" alt="Click to Search" title="Click to Search">
+		<input type="hidden" name="enc" value="UTF-8">
+		<input type='hidden' name='restrict'         value='/PMG/PESTNOTES/ /PMG/GARDEN/ /QT/ /PMG/NE/ /PMG/WEEDS/ /EXOTIC/exoticpestsmenu.html'>
+	</form>
+</div>
+
+  <b>Search home and garden</b>:
+  <input type='text' name='words' size='30' maxlength='150' value=''>
+  <input type='submit' value='Go'>
+</form></div>      -->
+
+<div id="relatedlinks">
+<ul class="noindent" style="margin-left: 1em;">
+	<li><a href="/PMG/PESTNOTES/sp_index.html">Spanish Pest Notes library</a></li>
+  <li><i><a href="/PMG/pnchanges.html">Recent changes</a></i></li>
+ 
+  <li><i><a href="/PDF/PESTNOTES/pnlist.pdf">Download list <span class="footertext">(PDF)</span></a></i></li>
+</ul></div> 
+<i><!-- end of related links -->
+
+</i>
+<p><i>Pest Notes</i> are UC IPM’s fact sheets that cover specific pests or pest management topics aimed at California's urban, suburban, and rural audiences, including pest management professionals. <i>Pest Notes</i> contain information on pest identification, biology and habitat, life cycle, damage and impact, and offer multiple nonchemical and chemical management options. Each peer-reviewed, scientific publication includes colorful photographs or illustrations to help readers with identification and finding practical solutions. <i>Pest Notes</i> are available to view online and can also be downloaded as a PDF.</p>
+<ul class="anchorlinks" style="width:600px; text-align:center;">
+  <li><a href="#INVERTEBRATE">Insects, mites, mollusks, and nematodes</a></li>
+  <li><a href="#DISEASE">Plant diseases</a></li>
+  <li style="border-right:0 none;"><a href="#WEEDS">Weeds</a></li>
+</ul>
+<ul class="anchorlinks" style="width:600px; text-align:center;">
+	<li><a href="#VERTEBRATE">Birds, mammals, and reptiles</a></li>
+	<li><a href="#MANAGEMENT">Management methods</a></li>
+	<li style="border-right:0 none;"><a href="#MISC">Miscellaneous</a></li>
+</ul>
+
+<table class="indextable" style="width:600px;">
+
+<tr class="minorcategory">
+<th class="colleft" style="width:370px;"><b>View online</b></th>
+    <th class="col" style="width:54px;"><b>PDF</b></th>
+    <th class="col"><b>Published</b></th>
+    </tr>
+<tr class="majorcategory" id="INVERTEBRATE">
+    <th colspan="3"><b>Insects, mites, mollusks, and nematodes: Invertebrate pests</b></th>
+  </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7411.html">Ants</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnants.pdf">PDF</a></td>
+    <td>October 2012</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7404.html">Aphids</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnaphids.pdf">PDF</a></td>
+    
+    <td>June 2013</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74155.html">Asian Citrus Psyllid and Huanglongbing Disease</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnasiancitruspsyllid.pdf">PDF</a></td>
+    <td>September 2018</td>
+    </tr>
+
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74134.html">Avocado Lace Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnavocadolacebug.pdf">PDF</a></td>
+    <td>March 2007</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74166.html">Bagrada Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbagradabug.pdf">PDF</a></td>
+    <td>January 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7421.html">Bark Beetles</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbarkbeetles.pdf">PDF</a></td>
+    <td>November 2008</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7454.html">Bed Bugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbedbugs.pdf">PDF</a></td>
+    <td>May 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7449.html">Bee and Wasp Stings</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbeewaspstings.pdf">PDF</a></td>
+    <td>September 2011</td>
+    </tr>
+     <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74159.html">Bee Swarms: Removing Established Hives</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhoneybeeswarm.pdf">PDF</a></td>
+    <td>May 2012</td>
+    </tr>
+   
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74160.html">Black Scale</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnblackscale.pdf">PDF</a><br><span class="footertext">(2.3 MB)</span></td>
+    <td>May 2012</td>
+    </tr>
+  
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74114.html">Boxelder Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnboxelderbug.pdf">PDF</a></td>
+    <td>July 2014</td>
+    </tr>
+    <tr>
+    <th><a href="/PMG/PESTNOTES/pn74169.html">Brown Marmorated Stink Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnBMSB.pdf">PDF</a></td>
+    <td>May 2014</td>
+    </tr>
+    
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7468.html">Brown Recluse and Other Recluse Spiders</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbrownrecluse.pdf">PDF</a></td>
+    <td>November 2018</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7422.html">California Oakworm</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncaliforniaoakworm.pdf">PDF</a></td>
+    <td>April 2009</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7416.html">Carpenter Ants </a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncarpenterants.pdf">PDF</a></td>
+    <td>August 2009</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7417.html">Carpenter Bees </a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncarpenterbees.pdf">PDF</a></td>
+    <td>June 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74105.html">Carpenterworm</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncarpenterworm.pdf">PDF</a></td>
+    <td>December 2010</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7436.html">Carpet Beetles</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncarpetbeetles.pdf">PDF</a></td>
+    <td>April  2020</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7472.html">Centipedes and Millipedes </a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmillipedescentipedes.pdf">PDF</a></td>
+    
+    <td>September 2019</td>
+    </tr>
+ 
+<tr>
+ <th><a href="/PMG/PESTNOTES/pn74137.html">Citrus Leafminer</a></th>
+ <td class="center"><a href="/PDF/PESTNOTES/pncitrusleafminer.pdf">PDF</a></td>
+ <td>March 2010 </td>
+ </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7477.html">Clearwing Moths</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnclearwingmoths.pdf">PDF</a></td>
+    <td>December 2013</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7435.html">Clothes Moths</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnclothesmoths.pdf">PDF</a></td>
+    <td>March 2013</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7467.html">Cockroaches</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncockroaches.pdf">PDF</a></td>
+    <td>December 2019</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7412.html">Codling Moth</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncodlingmoth.pdf">PDF</a></td>
+    <td>May 2011</td>
+    </tr>
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7455.html">Conenose Bugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnconenosebugs.pdf">PDF</a></td>
+    <td>July 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7410.html">Cottony Cushion Scales</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncottonycushionscale.pdf">PDF</a></td>
+    <td>February 2012</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7440.html">Drywood Termites</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndrywoodtermites.pdf">PDF</a></td>
+    <td>August 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74102.html">Earwigs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnearwigs.pdf">PDF</a></td>
+    <td>October 2012</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7403.html">Elm Leaf Beetle</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnelmleafbeetle.pdf">PDF</a></td>
+    <td>June 2014</td>
+    </tr>
+  <tr > 
+    <th><a href="/PMG/PESTNOTES/pn7425.html">Eucalyptus Longhorned Borers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pneucalyptuslonghornedborer.pdf">PDF</a></td>
+    <td>September 2009</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7460.html">Eucalyptus Redgum Lerp Psyllid</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pneucalyptusredgumpsyllid.pdf">PDF</a></td>
+    <td>July 2022</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74104.html">Eucalyptus Tortoise Beetles</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pneucalyptustortoisebeetle.pdf">PDF</a></td>
+    <td>February 2009</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74164.html">Eye Gnats</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pneyegnat.pdf">PDF</a></td>
+    <td>August 2013</td>
+    </tr>
+     <tr> 
+    <th><a href="/PMG/PESTNOTES//pn74153.html">False Chinch Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfalsechinchbug.pdf">PDF</a></td>
+    <td>October 2010</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7419.html">Fleas</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfleas.pdf">PDF</a></td>
+    <td>September 2010</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7457.html">Flies</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnflies.pdf">PDF</a></td>
+    <td>May 2015</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7448.html">Fungus Gnats</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfungusgnats.pdf">PDF</a></td>
+    <td>August 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7400.html">Giant Whitefly</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pngiantwhitefly.pdf">PDF</a></td>
+    <td>June 2021</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7492.html">Glassy-winged Sharpshooter</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnglassywingedsharpshooter.pdf">PDF</a></td>
+    <td>April 2019</td>
+    </tr>
+     <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74163.html">Goldspotted Oak Borer</a> </th>
+    <td class="center"><a href="/PDF/PESTNOTES/pngoldspottedoakborer.pdf">PDF</a></td>
+    <td>January 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74103.html">Grasshoppers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pngrasshoppers.pdf">PDF</a></td>
+    <td>June 2013</td>
+    </tr>
+ 
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74111.html">Hackberry Woolly Aphids</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhackberrywoollyaphid.pdf">PDF</a></td>
+    <td>August 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7446.html">Head Lice</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnheadlice.pdf">PDF</a></td>
+    <td>July 2020</td>
+    </tr>
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7488.html">Hobo Spider</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhobospider.pdf">PDF</a></td>
+    <td>November 2015</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7499.html">Hoplia Beetle</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhopliabeetle.pdf">PDF</a></td>
+    <td>November 2010</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7471.html">Horsehair Worms</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhorsehairworms.pdf">PDF</a></td>
+    
+    <td>March 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74157.html">Indian Walking Stick</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnindianwalkingstick.pdf">PDF</a></td>
+    
+    <td>May 2011</td>
+    </tr>
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74179.html">Invasive Shothole Borers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pninvasiveshotholeborer.pdf">PDF</a></td>
+    <td>August 2023</td>
+  </tr>
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7428.html">Lace Bugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlacebugs.pdf">PDF</a></td>
+    <td>March 2014</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7476.html">Lawn Insects</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlawninsects.pdf">PDF</a></td>
+    
+    <td>September 2014</td>
+    </tr>
+
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74168.html">Leaffooted Bug</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnleaffootedbug.pdf">PDF</a></td>
+    
+    <td>May 2014</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7473.html">Leafrollers on Ornamental and Fruit Trees</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfruittreeleafroller.pdf">PDF</a></td>
+    
+    <td>September 2010</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74174.html">Mealybugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmealybugs.pdf">PDF</a></td>
+    
+    <td>March 2016</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7451.html">Mosquitoes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmosquitoes.pdf">PDF</a></td>
+    
+    <td>April 2020</td>
+    </tr>
+    
+     <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74167.html">Moth or Drain Flies</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmothflies.pdf">PDF</a></td>
+    
+    <td>March 2014</td>
+    </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74165.html">Myoporum Thrips</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmyoporumthrips.pdf">PDF</a></td>
+    
+    <td>November 2013</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7489.html">Nematodes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnnematodes.pdf">PDF</a></td>
+    
+    <td>July  2010</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7470.html">Oak Pit Scales</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnoakpitscales.pdf">PDF</a></td>
+    
+    <td>May 2013</td>
+    </tr>
+ 
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74112.html">Olive Fruit Fly</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnolivefruitfly.pdf">PDF</a></td>
+    
+    <td>February 2009</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7452.html">Pantry Pests</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpantrypests.pdf">PDF</a></td>
+    <td>March 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7479.html">Pitch Moth</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsequoiapitchmoth.pdf">PDF</a></td>
+    <td>July 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7423.html">Psyllids</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpsyllids.pdf">PDF</a></td>
+    <td>April 2014</td>
+    </tr>
+
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7487.html">Red Imported Fire Ant</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnredimportedfireant.pdf">PDF</a></td>
+    <td>December 2013</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7474.html">Redhumped Caterpillar</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnredhumpedcaterpillar.pdf">PDF</a></td>
+    <td>December 2017</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7466.html">Roses: Insects and Mites</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrosesinsect.pdf">PDF</a></td>
+    <td>October 2019</td>
+    </tr>
+ 
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7408.html">Scales</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnscales.pdf">PDF</a></td>
+    <td>September 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74110.html">Scorpions</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnscorpions.pdf">PDF</a></td>
+    <td>December 2011</td>
+    </tr>
+ <!-- <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7479.html">Pitch Moth</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsequoiapitchmoth.pdf">PDF</a></td>
+    <td>July 2013</td>
+    </tr> -->
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7475.html">Silverfish and Firebrats</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsilverfish.pdf">PDF</a></td>
+    <td>December 2009</td>
+    </tr>
+      <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74141.html">Sixspotted Spider Mite</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsixspottedspidermite.pdf">PDF</a></td>
+    <td>October 2007</td>
+    </tr>
+   <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7427.html">Snails and Slugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsnailsslugs.pdf">PDF</a></td>
+    <td>March 2018</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7405.html">Spider Mites</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnspidermites.pdf">PDF</a></td>
+    <td>December 2011</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7442.html">Spiders</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnspiders.pdf">PDF</a></td>
+    <td>October 2020</td>
+    </tr>
+   <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74158.html">Spotted Wing Drosophila</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnspottedwingdrosophila.pdf">PDF</a></td>
+    <td>August 2011</td>
+    </tr>
+  
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74136.html">Springtails</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnspringtails.pdf">PDF</a></td>
+    <td>July 2007 </td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/home-and-landscape/squash-bugs/">Squash Bugs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsquashbug.pdf">PDF</a></td>
+    <td>April 2025</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7415.html">Subterranean and Other Termites</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pntermites.pdf">PDF</a></td>
+    <td>May 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7409.html">Sycamore Scale</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsycamorescale.pdf">PDF</a></td>
+    <td>July 2010</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7429.html">Thrips</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnthrips.pdf">PDF</a></td>
+    <td>May 2014</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7485.html">Ticks (Lyme Disease in California)</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlymedisease.pdf">PDF</a></td>
+    <td>May 2016</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7430.html">Walnut Husk Fly</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwalnuthuskfly.pdf">PDF</a></td>
+    <td>July 2009</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7401.html">Whiteflies</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwhiteflies.pdf">PDF</a></td>
+    <td>September 2015</td>
+    </tr>
+ 
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74149.html">Widow Spiders and Their Relatives</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnblackwidow.pdf">PDF</a></td>
+    <td>March 2017</td>
+    </tr>
+    
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7495.html">Windscorpion</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwindscorpion.pdf">PDF</a></td>
+    <td>May 2010</td>
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7418.html">Wood-Boring Beetles in Homes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwoodboringbeetles.pdf">PDF</a></td>
+    <td>June 2010</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7407.html">Wood Wasps and Horntails</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwoodwaspshorntails.pdf">PDF</a></td>
+    <td>April 2010</td>
+    </tr>
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7450.html">Yellowjackets and Other Social Wasps</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnyellowjackets.pdf">PDF</a></td>
+    <td>March 2012</td>
+    </tr>
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74143.html"><i>Zoropsis</i> Spider</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnzoropsis.pdf">PDF</a></td>
+    <td>June 2014 </td>
+    </tr>
+ </table>
+
+
+<table class="indextable" style="width:600px;">
+
+<tr class="minorcategory">
+<th class="colleft" style="width:370px;"><a name="DISEASE"></a><b>View online</b></th>
+    <th class="col" style="width:54px;">  <b>PDF</b></th>
+    <th class="col"><b>Published</b></th>
+ </tr>
+    <tr  class="majorcategory">
+    <th colspan="3"><b>Plant diseases</b></th>
+</tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7420.html">Anthracnose</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnanthracnose.pdf">PDF</a></td>
+    <td>May 2020</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7413.html">Apple and Pear Scab</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnapplescab.pdf">PDF</a></td>
+    <td>January  2011</td>
+              </tr>
+
+	<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74171.html">Armillaria Root Rot</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnarmillariarootrot.pdf">PDF</a></td>
+    <td>January  2020</td>
+              </tr>
+
+	
+	<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74177.html">Botryosphaeria Canker</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbotryosphaeriacanker.pdf">PDF</a></td>
+    <td>July  2022</td>
+              </tr>
+
+	
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74132.html">Damping-off Diseases in
+           the Garden</a> </th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndampingoff.pdf">PDF</a></td>
+    <td>January 2024</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7414.html">Fire Blight</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfireblight.pdf">PDF</a></td>
+    <td>July 2011</td>
+              </tr>
+ <tr> 
+    <th height="33"><a href="/PMG/PESTNOTES/pn7497.html">Lawn Diseases: Prevention and Management</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlawndiseases.pdf">PDF</a></td>
+    <td>September 2011</td>
+    </tr>
+
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74100.html">Mushrooms and Other Nuisance Fungi in Lawns</a></th>
+    <td class="center" nowrap><a href="/PDF/PESTNOTES/pnmushrooms.pdf">PDF</a><br><span class="footertext">(2.3 MB)</span></td>
+    <td>January 2012</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7480.html">Oleander Leaf Scorch</a> </th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnoleanderleaf.pdf">PDF</a></td>
+    <td>April 2008</td>
+              </tr>
+     <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74156.html">Olive Knot</a></th>
+    <td class="center" nowrap><a href="/PDF/PESTNOTES/pnoliveknot.pdf">PDF</a><br>
+    <span class="footertext">(2.5 MB)</span></td>
+    <td>March 2011</td>
+              </tr>
+<tr>
+ <th><a href="/PMG/PESTNOTES/pn74148.html">Palm Diseases in the Landscape</a> </th>
+ <td class="center"><a href="/PDF/PESTNOTES/pnpalmdiseases.pdf">PDF</a></td>
+ <td>July  2019</td>
+ 
+ </tr>
+      <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7426.html">Peach Leaf Curl</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnleafcurl.pdf">PDF</a></td>
+    <td>May 2012</td>
+              </tr>
+              
+              <tr> 
+    <th><a href="/home-and-landscape/phytophthora-root-and-crown-rot/">Phytophthora Root and Crown Rot</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnphytophthora.pdf">PDF</a></td>
+    <td>January 2025</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74107.html">Pitch Canker</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpitchcanker.pdf">PDF</a><br><span class="footertext">(2.3 MB)</span></td>
+    <td>May 2013</td>
+    </tr>
+
+
+
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7494.html">Powdery Mildew on Fruits and Berries</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpowderymildewfruits.pdf">PDF</a></td>
+    <td>January 2011</td>
+              </tr>
+  <tr> 
+    <th><a href="/home-and-landscape/powdery-mildew-on-ornamentals/">Powdery Mildew on Ornamentals</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpowderymildewornamentals.pdf">PDF</a></td>
+    <td>February 2026</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7406.html">Powdery Mildew on Vegetables</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpowderymildewvegetables.pdf">PDF</a></td>
+    <td>November 2008</td>
+              </tr>
+
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7463.html">Roses: Diseases and Abiotic Disorders</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrosesdiseases.pdf">PDF</a></td>
+    <td>February 2020</td>
+    
+    </tr>
+
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74108.html">Sooty Mold</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsootymold.pdf">PDF</a></td>
+    <td>September 2020</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74151.html">Sudden Oak Death</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsuddenoakdeath.pdf">PDF</a><br>
+    <span class="footertext">(2.4 MB)</span></td>
+    <td>September 2010</td>
+    
+    </tr>
+ <tr> 
+    <th>
+      <a href="/PMG/PESTNOTES/pn74109.html">Wood Decay Fungi in Landscape Trees</a>            </th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwooddecay.pdf">PDF</a></td>
+    <td>August 2019</td>
+              </tr>
+
+  </table>
+
+
+<table class="indextable" style="width:600px;">
+
+<tr  class="minorcategory">
+<th class="colleft" style="width:370px;" id="WEEDS"><b>View online</b></th>
+    <th class="col" style="width:54px;">  <b>PDF</b></th>
+    <th class="col"><b>Published</b></th>
+ </tr>
+<tr  class="majorcategory">
+    <th colspan="3" class="colleft"><b>Weeds</b></th>
+  </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7464.html">Annual Bluegrass</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnannualbluegrass.pdf">PDF</a></td>
+    <td>May 2012</td>
+              </tr>
+ <tr> 
+    <th><a href="/home-and-landscape/bermudagrass/">Bermudagrass</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbermudagrass.pdf">PDF</a></td>
+    <td>July 2025</td>
+              </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74147.html">Brooms</a></th>
+    <td class="center" nowrap><a href="/PDF/PESTNOTES/pnbrooms.pdf">PDF</a><br></td>
+    <td>June 2020</td>
+    
+    </tr>
+     <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74146.html">Burning & Stinging Nettles</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnburningnettles.pdf">PDF</a></td>
+    <td>October 2008</td>
+              </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74154.html">Catchweed Bedstraw</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncatchweedbedstraw.pdf">PDF</a></td>
+    <td>November 2010</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74129.html">Chickweeds</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnchickweed.pdf">PDF</a></td>
+    <td>April 2006</td>
+              </tr>
+
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7490.html">Clovers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnclovers.pdf">PDF</a></td>
+    <td>October 2007</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74130.html">Common Groundsel</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncommongroundsel.pdf">PDF</a></td>
+    <td>May 2006</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7484.html">Common Knotweed</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncommonknotweed.pdf">PDF</a></td>
+    <td>August 2008</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7461.html">Common Purslane</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncommonpurslane.pdf">PDF</a></td>
+    <td>August 2007 </td>
+              </tr>
+
+  <tr> 
+    <th><a href="/home-and-landscape/crabgrass/">Crabgrass</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncrabgrass.pdf">PDF</a></td>
+    <td>September 2025</td>
+    
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7444.html">Creeping Woodsorrel and Bermuda Buttercup</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncreepingwoodsorrel.pdf">PDF</a></td>
+    <td>June 2010</td>
+    
+    </tr>
+ 
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7491.html">Dallisgrass</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndallisgrass.pdf">PDF</a></td>
+    <td>September 2022</td>
+              </tr>
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7469.html">Dandelion</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndandelion.pdf">PDF</a></td>
+    <td>January 2018</td>
+              </tr>
+ 
+  
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7496.html">Dodder</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndodder.pdf">PDF</a></td>
+    <td>March 2010</td>
+              </tr>
+              <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74175.html">Dyer's Woad</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndyerswoad.pdf">PDF</a></td>
+    <td>August 2017</td>
+    </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7462.html">Field Bindweed</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnfieldbindweed.pdf">PDF</a></td>
+    <td>October 2011</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7459.html">Green Kyllinga</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pngreenkyllinga.pdf">PDF</a></td>
+    <td>December 2011</td>
+              </tr>
+
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74139.html">Invasive Plants</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pninvasiveplants.pdf">PDF</a></td>
+    <td>June 2017</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7458.html">Kikuyugrass</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnkikuyugrass.pdf">PDF</a></td>
+    <td>August 2011</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74127.html">Mallows</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmallows.pdf">PDF</a></td>
+    <td>March 2006</td>
+              </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7437.html">Mistletoes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmistletoe.pdf">PDF</a></td>
+    <td>March 2022</td>
+              </tr>
+   <tr> 
+    <th><a href="/home-and-landscape/nutsedge/">Nutsedge</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnnutsedge.pdf">PDF</a></td>
+    <td>June 2024</td>
+              </tr>
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74121.html">Perennial Pepperweed</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnperennialpepperweed.pdf">PDF</a></td>
+    <td>January 2015</td>
+              </tr>
+
+
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7478.html">Plantains</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnplantains.pdf">PDF</a></td>
+    <td>February 2020</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74162.html">Poison Hemlock</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpoisonhemlock.pdf">PDF</a></td>
+    <td>January 2013</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7431.html">Poison Oak</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpoisonoak.pdf">PDF</a></td>
+    <td>June 2021</td>
+              </tr>
+	<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74173.html">Pokeweed</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpokeweed.pdf">PDF</a></td>
+    <td>September 2020</td>
+              </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74128.html">Puncturevine</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpuncturevine.pdf">PDF</a></td>
+    <td>March 2006</td>
+              </tr>
+ 
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7465.html">Roses: Cultural Practices and Weed Control</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrosescultural.pdf">PDF</a></td>
+    <td>July 2019</td>
+    </tr>
+    
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7486.html">Russian Thistle</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrussianthistle.pdf">PDF</a></td>
+    <td>May 2025</td>
+              </tr>
+
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7445.html">Spotted Spurge and Other Spurges</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnspottedspurge.pdf">PDF</a></td>
+    <td>September 2009</td>
+     </tr>
+
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7441.html">Weed Management in Landscapes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnweedmanagement.pdf">PDF</a></td>
+    <td>September 2018</td>
+    </tr>
+
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74113.html">Weed Management in Lawns</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnweedmanagementlawns.pdf">PDF</a></td>
+    <td>March 2016</td>
+    
+    </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7434.html">Wild Blackberries</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwildblackberries.pdf">PDF</a></td>
+    <td>October 2022</td>
+              </tr>
+
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74142.html">Woody Weed Invaders</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwoodyweeds.pdf">PDF</a></td>
+    <td>July 2017</td>
+              </tr>
+              <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7402.html">Yellow Starthistle</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnyellowstarthistle.pdf">PDF</a></td>
+    <td>September 2007</td>
+    
+    </tr>
+ </table>
+
+
+
+<table class="indextable" style="width:600px;">
+  <tr class="minorcategory"> 
+<th class="colleft" style="width:370px;" id="VERTEBRATE"><b>View online</b></th>
+    <th class="col" style="width:54px;">  <b>PDF</b></th>
+    <th class="col"><b>Published</b></th>
+    </tr>
+ <tr class="majorcategory">
+    <th colspan="3" class="colleft"><b>Birds, mammals, and reptiles: Vertebrate pests</b></th>
+  </tr>
+   <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74150.html">Bats</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbats.pdf">PDF</a></td>
+    <td>March 2021</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74152.html">Birds on Tree Fruits and Vines</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbirdstreefruitsvines.pdf">PDF</a></td>
+    <td>September 2010</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7482.html">Cliff Swallows</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncliffswallows.pdf">PDF</a></td>
+    <td>July 2005</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74135.html">Coyote</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pncoyote.pdf">PDF</a></td>
+    <td>March 2007</td>
+    </tr>
+<tr>
+    <th><a href="/PMG/PESTNOTES/pn74117.html">Deer</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndeer.pdf">PDF</a></td>
+    <td>November 2019</td>
+    </tr>
+<tr>
+    <th><a href="/PMG/PESTNOTES/pn74161.html">Deer Mouse</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndeermouse.pdf">PDF</a></td>
+    <td>June 2012</td>
+    </tr>
+<tr>
+  <th><a href="/home-and-landscape/feral-cats/pest-notes/">Feral Cats</a></th>
+  <td class="center"><a href="/PDF/PESTNOTES/pnferalcats.pdf">PDF</a></td>
+  <td>July 2023</td>
+</tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7438.html">Ground Squirrel</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pngroundsquirrel.pdf">PDF</a></td>
+    <td>June 2025</td>
+    </tr>
+  <tr> 
+    <th><a href="/home-and-landscape/house-mouse/">House Mouse</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhousemouse.pdf">PDF</a></td>
+    <td>July 2025</td>
+    </tr>
+ <tr>
+    <th> <a href="/PMG/PESTNOTES/pn74120.html">Lizards</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlizards.pdf">PDF</a></td>
+    <td>November 2014</td>
+    </tr>
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74115.html">Moles</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnmoles.pdf">PDF</a></td>
+    <td>November 2024</td>
+    </tr>
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74123.html">Opossum</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnopossum.pdf">PDF</a></td>
+    <td>October 2015</td>
+    </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7433.html">Pocket Gophers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpocketgophers.pdf">PDF</a></td>
+    <td>June 2025</td>
+    </tr>
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7447.html">Rabbits</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrabbits.pdf">PDF</a></td>
+    <td>August 2022</td>
+    </tr>
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74116.html">Raccoons</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnraccoons.pdf">PDF</a></td>
+    <td>July 2014</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74106.html">Rats</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrats.pdf">PDF</a></td>
+    <td>June 2025</td>
+    </tr>
+
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74119.html">Rattlesnakes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnrattlesnakes.pdf">PDF</a></td>
+    <td>December 2014</td>
+    </tr>
+  <tr>
+    <th><a href="/PMG/PESTNOTES/pn74118.html">Skunks</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnskunks.pdf">PDF</a></td>
+    <td>April 2015</td>
+    </tr>
+ 
+<tr>
+    <th><a href="/PMG/PESTNOTES/pn74122.html">Tree Squirrels</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pntreesquirrels.pdf">PDF</a></td>
+    <td>August 2016</td>
+    </tr>
+  <tr> 
+    <th><a href="/PMG/PESTNOTES/pn7439.html">Voles (Meadow Mice)</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnvoles.pdf">PDF</a></td>
+    <td>June 2025</td>
+    </tr>
+     <tr>
+    <th><a href="/PMG/PESTNOTES/pn74170.html">Wild Pigs</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwildpigs.pdf">PDF</a></td>
+    <td>July 2015</td>
+    </tr>
+	 <tr>
+    <th><a href="/PMG/PESTNOTES/pn74176.html">Wild Turkeys</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwildturkeys.pdf">PDF</a></td>
+    <td>June 2021</td>
+    </tr>
+ <tr>
+    <th><a href="/PMG/PESTNOTES/pn74124.html">Woodpeckers</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnwoodpeckers.pdf">PDF</a></td>
+    <td>April 2022</td>
+    </tr>
+</table>
+  
+
+	
+<table class="indextable" style="width:600px;">
+ 
+	<tr class="minorcategory">
+		<th class="colleft" style="width:370px;" id="MANAGEMENT"><b>View online</b></th>
+    <th class="col" style="width:54px;">  <b>PDF</b></th>
+    <th class="col"><b>Published</b></th>
+ </tr>
+<tr  class="majorcategory">
+    <th colspan="4" class="colleft"><b>Management methods, including pesticides
+      and biological control</b></th>
+  </tr>
+<tr>
+    <th><a href="/PMG/PESTNOTES/pn74140.html">Biological Control and Natural Enemies of Invertebrates</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnbiocontrol.pdf">PDF</a></td>
+    <td>December 2014 </td>
+    </tr>
+
+ <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74125.html">Hiring a Pest Control Company</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhirepestcontrol.pdf">PDF</a></td>
+    <td>August 2023</td>
+              </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74126.html">Pesticides: Safe and Effective Use in the Home and Landscape</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpesticideingarden.pdf">PDF</a></td>
+    <td>April 2006</td>
+    </tr>
+    <tr> 
+    <th><a href="/PMG/PESTNOTES/pn74138.html">Pesticidas: Uso Seguro y Eficaz en el Hogar y en Jardines</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnpesticideingardensp.pdf">PDF</a></td>
+    <td>October 2008</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74145.html">Soil Solarization for Gardens & Landscapes</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnsoilsolarization.pdf">PDF</a></td>
+    <td>May 2019</td>
+    
+    </tr>
+ <tr  class="majorcategory">
+    <th colspan="4" class="colleft" id="MISC"><b>Miscellaneous</b></th>
+  </tr>
+
+	<tr> 
+    <th><a href="/PMG/PESTNOTES/pn74172.html">Houseplant Problems</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnhouseplantproblems.pdf">PDF</a></td>
+    <td>August 2020</td>
+    
+    </tr>
+	<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7443.html">Itching and Infestation:
+What's Attacking Me?</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pndelusoryparasitosis.pdf">PDF</a></td>
+    <td>September 2020</td>
+    </tr>
+<tr> 
+    <th><a href="/PMG/PESTNOTES/pn7485.html">Lyme Disease in California</a></th>
+    <td class="center"><a href="/PDF/PESTNOTES/pnlymedisease.pdf">PDF</a></td>
+    <td>May 2016</td>
+    
+    </tr>
+	
+	
+	
+	
+ </table>
+
+    <!-- InstanceEndEditable -->  <!-- end of Content editable region -->
+</div> <!-- end of ipmcontent div -->
+
+<!-- =============== Page bottom links (optional) =============== -->
+
+
+
+</div> <!-- end of pagecontent div  -->
+
+  <!-- **************** LEFT SIDEBAR NAVIGATION  ***************** -->
+
+<div id="navigation">
+  <ul>
+    <li class="parent"><a href="/index.html"><b>HOME</b></a></li>
+    <li class="linkgroup">ON THIS SITE</li>
+
+<li class="parent"><a href="/GENERAL/whatisipm.html">What is IPM?</a>
+</li>
+
+<li class="parent"><a href="/PMG/menu.homegarden.html">Home & landscape pests</a></li>
+
+<li class="parent"><a href="/PMG/crops-agriculture.html">Agricultural pests</a></li>
+
+<li class="parent"><a href="/NATURAL/index.html">Natural environment pests</a></li>
+
+<li class="parent"><a href="/EXOTIC/index.html">Exotic & invasive pests</a></li>
+
+<li class="parent"><a href="/PMG/weeds_intro.html">Weed gallery</a></li>
+
+<li class="parent"><a href="/PMG/NE/index.html">Natural enemies gallery</a></li>
+
+<li class="parent"><a href="/WEATHER/index.html">Weather, models & degree-days</a></li>
+
+<li class="parent"><a href="/GENERAL/pesticides.html">Pesticide information</a>
+</li>
+
+<li class="parent"><a href="/IPMPROJECT/fundedprojects.html">Research</a>
+</li>
+
+<li class="parent"><a href="/IPMPROJECT/pubsmenu.html">Publications</a>
+</li>
+
+<li class="parent"><a href="/IPMPROJECT/workshops.html">Events & workshops
+</a></li>
+
+<li class="parent"><a href="/training/index.html">Online training
+</a></li>
+
+<li class="parent"><a href="/GENERAL/links.html">Links</a>
+</li>
+
+<li class="parent"><a href="/IPMPROJECT/about.html">About us</a>
+</li>
+
+<li class="parent" style="border-right:0"><a href="/IPMPROJECT/contact.html">Contact us</a>
+</li>
+
+<br />
+<br />
+
+<div class="donate" style="text-align: left; padding: 5px; width: 80%; margin-top: 10px; margin-bottom: 5px; margin-right: 0px;">
+	<a href="/make-a-gift/?src=/PMG/PESTNOTES/index.html" target="_blank" style="text-decoration:none; color:white;"><img src="/IMAGES/make-a-gift-button.png" alt="Make a gift button" height="100%" width="100%"></a>
+</div>
+
+  </ul>
+</div> <!-- end of navigation -->
+
+  <!-- ******************** FOOTER ************************ -->
+
+  <!-- **************** FOOTER DIVISION ***************** -->
+<!-- ANRPAGE-FOOTER.inc updated 10-22-13 at 9:00 -->
+
+<div id="footer" style="margin-top:1em;clear:both;">
+
+<div class="top"></div> <!-- yellow repeating image line -->
+	<div id="ipmfooter" style="margin:1em 2em;">
+    <p style="font-size:0.65em; text-align:left; margin:0; line-height:130%;">For noncommercial purposes only, any Web site may link directly to this page. FOR ALL OTHER USES or more information, read <a href="/GENERAL/copyright.html">Legal Notices</a>. Unfortunately, we cannot provide individual solutions to specific pest problems. See our <a href="/">Home page</a>, or in the U.S., contact your <a href="/GENERAL/ceofficefinder.html">local Cooperative Extension office</a> for assistance.
+     .
+             </p>
+    <p class="footerlinks" style="margin:0;">
+    <a href="/GENERAL/acknowledgments.html">Acknowledgements</a>
+    <a href="/ADMIN/">Staff-only pages</a>
+    <a href="/GENERAL/rssfeeds.html">Subscribe (RSS)</a>
+<!--		<a href="https://twitter.com/ucipmurban">Follow (Twitter)</a>
+		<a href="http://www.youtube.com/UCIPM">Videos (YouTube)</a> -->
+    <a href="/IPMPROJECT/contact.html" style="border-right: 0; padding-right: 0;">Contact UC IPM</a></p>
+    </div>
+
+<p class="footerhead" style="margin:-1em 0 0 0;text-align:center;">Agriculture and Natural Resources, University of California</p>
+<p class="footerlinks" style="margin: 0.25em 0 0 0;">
+	<!--<a href="https://ucanr.edu/?copyright">© 2024 Regents of the University of California</a>-->
+	<a href="https://ucanr.edu/?copyright">© 2024 Regents of the University of California</a>
+    <a href="https://ucanr.edu/">Division of Agriculture and Natural Resources</a>
+    <a href="https://ucanr.edu/sites/anrstaff/Diversity/Affirmative_Action/Resources/Policy-related_downloads/" style="border-right:0;padding:0">Nondiscrimination Statement</a>
+    </p>
+   <p class="footerlinks" style="margin:0;">
+    <a href="https://ucanr.edu/?accessibilityStatement">Accessibility</a>
+    <a href="http://get.adobe.com/reader/" title="Get PDF Reader (New Window)" target="_blank">Get PDF Reader</a>
+
+    <a href="/GENERAL/feedback.html" style="border-right:0;padding:0">Contact Webmaster</a>
+</p>
+
+</div> <!--end of div class footertext -->
+</div> <!--end of footer div -->
+<div id="footerbottom"></div>
+
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPR7B4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- footer-placeholder1 -->
+<!-- footer-placeholder2 -->
+<!-- footer-placeholder3 -->
+
+</div> <!-- end of main  -->
+<script async src="https://siteimproveanalytics.com/js/siteanalyze_8343.js"></script><script async src="https://siteimproveanalytics.com/js/siteanalyze_8343.js"></script></body>
+<!-- InstanceEnd --></html> 

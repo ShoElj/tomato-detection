@@ -1,0 +1,52 @@
+{
+  "Tomato___Bacterial_spot": {
+    "status": "Diseased",
+    "treatment": "Remove infected leaves and apply a recommended bactericide or copper-based treatment.",
+    "prevention": "Avoid overhead irrigation, improve field sanitation, and disinfect tools regularly."
+  },
+  "Tomato___Early_blight": {
+    "status": "Diseased",
+    "treatment": "Remove affected foliage and apply an appropriate fungicide.",
+    "prevention": "Rotate crops, mulch soil, and reduce leaf wetness."
+  },
+  "Tomato___Late_blight": {
+    "status": "Diseased",
+    "treatment": "Remove infected tissue immediately and apply a suitable fungicide.",
+    "prevention": "Improve airflow, avoid prolonged leaf wetness, and monitor humidity conditions."
+  },
+  "Tomato___Leaf_Mold": {
+    "status": "Diseased",
+    "treatment": "Prune infected leaves and use an approved fungicide.",
+    "prevention": "Reduce greenhouse humidity, space plants properly, and improve ventilation."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "status": "Diseased",
+    "treatment": "Remove infected leaves and apply a protective fungicide.",
+    "prevention": "Avoid splashing soil onto leaves, rotate crops, and maintain field hygiene."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "status": "Diseased",
+    "treatment": "Apply insecticidal soap or an appropriate miticide.",
+    "prevention": "Monitor plants regularly, reduce plant stress, and control dusty dry conditions."
+  },
+  "Tomato___Target_Spot": {
+    "status": "Diseased",
+    "treatment": "Remove infected leaves and apply a suitable fungicide.",
+    "prevention": "Improve spacing, reduce humidity, and avoid prolonged leaf moisture."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "status": "Diseased",
+    "treatment": "Remove severely infected plants and control whitefly vectors.",
+    "prevention": "Use resistant varieties, insect barriers, and strict vector management."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "status": "Diseased",
+    "treatment": "Remove infected plants; there is no direct chemical cure.",
+    "prevention": "Disinfect tools, avoid contaminated handling, and remove infected plant material early."
+  },
+  "Tomato___healthy": {
+    "status": "Healthy",
+    "treatment": "No treatment required.",
+    "prevention": "Maintain proper watering, nutrition, hygiene, and regular monitoring."
+  }
+}
